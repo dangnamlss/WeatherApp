@@ -1,0 +1,7 @@
+API lấy từ openweathermap.org
+Link API Current weather data: https://api.openweathermap.org/data/2.5/weather
+params bao gồm: latitude: vĩ độ
+		    longitude: tung độ
+		    api key
+=>
+https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={API key}
